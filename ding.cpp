@@ -8,7 +8,7 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
 	cout << "Checking for output..." << endl;
-	cout << "Press spacebar to quit" << endl;
+	cout << "Press ESC to quit" << endl;
 	
 	string last, current;
 	string line;
